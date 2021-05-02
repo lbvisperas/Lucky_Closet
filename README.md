@@ -1,6 +1,6 @@
 # Lucky-Closet
 
-An information systems designed for optimized shopping experience
+MIS Project: An information systems designed for optimized shopping experience
 
 Submitted by:
 Lianne Kirsten Bonita Visperas
